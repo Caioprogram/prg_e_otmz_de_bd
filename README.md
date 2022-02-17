@@ -1,1 +1,0 @@
-# prg_e_otmz_de_bd
