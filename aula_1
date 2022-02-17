@@ -1,2 +1,17 @@
-estudar SQL
-Administração de banco de dados
+      
+      //estudar SQL
+      //Administração de banco de dados
+      //Postgre obrigaório
+     
+     
+      // atividade de revisão
+              --Mapa conceitual--
+          //Cliente:CPF, CNPJ, RG, Telefone. - Professor: Data de cadastro
+          //Pedido: Forma de pagamento, Valor, Endereço a ser enviado.  
+          //Itens:
+          //Produto: Data de recepção, Data de validade. - Professor: Marca. 
+          //Congelado:Temperatura minima, Validade - Professor: Marca.
+          //Bebida: Tipo(Alcoolica, refri, etc), se alcoolica teor alcoolico. 
+          //VerduraLegume: Peso, Preço, Validade. - Professor: selo de produção.
+      //
+     
